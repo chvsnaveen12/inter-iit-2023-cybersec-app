@@ -2,4 +2,4 @@
 The solutions for the inter IIT cybersec app
 
 ## Acknowledgements
-[www.google.com]
+www.google.com
